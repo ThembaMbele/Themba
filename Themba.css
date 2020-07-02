@@ -1,0 +1,25 @@
+
+#div1	{width:99%;
+	 height:20%;
+	 background-image: url("rain.gif"), url("paper.gif");
+	 background-repeat:repeat;
+  	 background-color: #cccccc;}
+#div2	{width:99%;
+	 height:87%;
+	 background-image: url("best 1.gif"), url("paper.gif");
+	 background-repeat:repeat;
+  	 background-color: #cccccc;}
+
+
+#h1	{color:87ceeb;
+	 text-align:center;}
+
+table	{align:left;
+	 width:300;
+	 height:300;
+	 background-color:000000;}
+
+
+ul	{color:white;}
+
+p	{color:white;}
