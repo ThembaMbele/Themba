@@ -1,0 +1,18 @@
+<html>
+</head>
+<body background="home.jpg">
+
+<h1 style="color:00ff00; text-align:center;">Welcome to Themba's group webpage<h1>
+
+
+<table>
+<th style="color:blue;"><h1>Get information on:</h1></th>
+<tr><td style="color:white;"><a href="Themba's website.html">Themba</a></td></tr>
+<tr><td style="color:white;"><a href="tefo's website.html">Tefo</a></td></tr>
+<tr><td style="color:white;"><a href="Ramara's website.html">Ramara</a></td></tr>
+<tr><td style="color:white;"><a href="Tseliso's website.html">Tséliso</a></td></tr>
+
+
+</table>
+</body>
+</html>
